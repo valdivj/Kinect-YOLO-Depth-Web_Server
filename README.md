@@ -10,6 +10,11 @@ Posted by Miguel Grinberg under Flask, Python, Programming, Video
 
 By following Miguel's lesson I was able to incorperate flask into my Kinect Yolo projects.
 
+1. app.py: This is the one to run. It calls Kinect.py to run and runs it in a web server.
+The webb sever can be called by running xxx.xxx.xxx.xxx:5000 (youre PC's I.P address)
+in any web browser.
+
+2. webcam.py: this is just a simple opencv webcam app.
 
 
 
