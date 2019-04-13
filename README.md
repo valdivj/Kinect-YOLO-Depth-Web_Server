@@ -1,8 +1,7 @@
 # Kinect-YOLO-Depth-Web_Server
 
-The next 3 lines are not my work,but you will need this info to setup YOLO on youre machine:
-
 Real-time object detection and classification. Paper: version 1, version 2.
+
 Read more about YOLO (in darknet) and download weight files here. In case the weight file cannot be found, I uploaded some of mine here, which include yolo-full and yolo-tiny of v1.0, tiny-yolo-v1.1 of v1.1 and yolo, tiny-yolo-voc of v2.
 
 Also thanks to:
